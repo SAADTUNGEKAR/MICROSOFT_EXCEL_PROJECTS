@@ -1,4 +1,5 @@
 # MICROSOFT_EXCEL_PROJECTS
+STORE DATA ANALYSIS
 This GitHub repository contains a project that focuses on store data analysis using Microsoft Excel. In this project, we have leveraged the power of Excel's features, including pivot tables and appealing interactive pivot charts, to gain valuable insights from the provided store data.
 project overview
 The analysis is broken down into the following key steps:
